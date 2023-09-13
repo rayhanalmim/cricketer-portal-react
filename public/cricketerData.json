@@ -1,0 +1,83 @@
+[
+      {
+        "name": "Mehedi Hasan",
+        "image": "https://i.ibb.co/DCXQ4k1/Mehedi-Hasan-Miraz-6.jpg",
+        "age": 25,
+        "jerseyNumber": 7,
+        "details": "Right-arm off-spin bowler and lower-order batsman.",
+        "value": 10
+      },
+      {
+        "name": "Tamim Iqbal",
+        "image": "https://i.ibb.co/hWy9WKf/Tamim-Iqbal.jpg",
+        "age": 32,
+        "jerseyNumber": 11,
+        "details": "Left-handed opening batsman and former captain.",
+        "value": 15
+      },
+      {
+        "name": "Shakib Al Hasan",
+        "image": "https://i.ibb.co/V3MFdkn/Sakib-Al-Hasan.jpg",
+        "age": 34,
+        "jerseyNumber": 75,
+        "details": "All-rounder - left-handed batsman and left-arm spinner.",
+        "value": 20
+      },
+      {
+        "name": "Mustafizur Rahman",
+        "image": "https://i.ibb.co/8xMSgtk/Mustafizur-needs-to-lead-BAN-attack-d.webp",
+        "age": 26,
+        "jerseyNumber": 90,
+        "details": "Left-arm fast-medium bowler known for his cutters.",
+        "value": 12
+      },
+      {
+        "name": "Mahmudullah Riyad",
+        "image": "https://i.ibb.co/fQq4Tkq/image-28795-1637233611.jpg",
+        "age": 35,
+        "jerseyNumber": 30,
+        "details": "All-rounder - right-handed batsman and off-spin bowler.",
+        "value": 11
+      },
+      {
+        "name": "Liton Das",
+        "image": "https://i.ibb.co/gS2ksq6/liton-das-768x768.jpg",
+        "age": 27,
+        "jerseyNumber": 23,
+        "details": "Wicketkeeper-batsman known for aggressive batting.",
+        "value": 9
+      },
+      {
+        "name": "Mushfiqur Rahim",
+        "image": "https://i.ibb.co/89KCR4P/Getty-Images-688893360-e1518000599717.webp",
+        "age": 32,
+        "jerseyNumber": 15,
+        "details": "Wicketkeeper-batsman and former captain.",
+        "value": 13
+      },
+      {
+        "name": "Taskin Ahmed",
+        "image": "https://i.ibb.co/sqDb7Bc/Taskin-Ahmed.webp",
+        "age": 26,
+        "jerseyNumber": 32,
+        "details": "Right-arm fast bowler known for his pace.",
+        "value": 10
+      },
+      {
+        "name": "Najmul Hossain Shanto",
+        "image": "https://i.ibb.co/5rhpn5b/Najmul-Hossain-Shanto-min.jpg",
+        "age": 24,
+        "jerseyNumber": 21,
+        "details": "Left-handed batsman and occasional off-spin bowler.",
+        "value": 8
+      },
+      {
+        "name": "Taijul Islam",
+        "image": "https://i.ibb.co/mq3R0N7/Taijul-Islam-profile.webp",
+        "age": 29,
+        "jerseyNumber": 3,
+        "details": "Left-arm orthodox spinner known for his accuracy.",
+        "value": 7
+      }
+]
+  
